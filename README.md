@@ -69,7 +69,7 @@ Tecnologías:
 
 Desarrolladores:
 ----------------
-[Tu nombre/información de contacto]
+- Alfonso Medina Alvarado
 
 Notas:
 ------
