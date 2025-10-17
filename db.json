@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nombre": "Admin",
+            "pass": "Admin123"
+        },
+        {
+            "id": 2,
+            "nombre": "User",
+            "pass": "User123"
+        },
+        {
+            "id": 3,
+            "nombre": "A",
+            "pass": "A"
+        },
+        {
+            "id": 4,
+            "nombre": "Alfonso",
+            "pass": "A"
+        }
+    ],
+    "promos": [
+        {
+            "id": 1,
+            "titulo": "Promo Gamer",
+            "imagen": "promo1.jpg"
+        },
+        {
+            "id": 2,
+            "titulo": "2x1 Accesorios",
+            "imagen": "promo2.jpg"
+        },
+        {
+            "id": 3,
+            "titulo": "Descuentos en Electrónica",
+            "imagen": "promo3.jpg"
+        }
+    ]
+}
