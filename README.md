@@ -27,10 +27,10 @@ ADVERTENCIAS IMPORTANTES:
      * ShCartScreen.js
 
    - Buscar y reemplazar esta línea:
-     const response = await fetch('http://10.90.3.94:3000/users');
+     const response = await fetch('http://192.168.1.xx:3000/screen_use');
 
    - Por tu IP local (ver con ipconfig en cmd):
-     const response = await fetch('http://TU_IP_LOCAL:3000/users');
+     const response = await fetch('http://TU_IP_LOCAL:3000/screen_use');
 
 2. REQUISITOS DE RED:
    - El dispositivo móvil y la PC deben estar en la misma red WiFi
@@ -67,10 +67,10 @@ Tecnologías:
 - JavaScript
 - JSON Server (base de datos local)
 
-Desarrolladores:
+Desarrollador:
 ----------------
 - Alfonso Medina Alvarado
 
 Notas:
 ------
-Proyecto en fase de desarrollo. La navegación funciona con botones, próximamente se implementará React Navigation.
+Proyecto en fase de desarrollo. La navegación funciona con botones, próximamente se implementará un subtipo de menú que nos proporciona React.
